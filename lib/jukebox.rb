@@ -9,6 +9,7 @@ songs = [
   "Harry Chapin - Cats in the Cradle",
   "Amos Lee - Keep It Loose, Keep It Tight"
 ]
+<<<<<<< HEAD
 
 def help
   puts "\nI accept the following commands:
@@ -67,3 +68,5 @@ def run(songs)
   end
   exit_jukebox
 end
+=======
+>>>>>>> 32647f09d25a32c2b08d879331d10d7d50f2fef8
